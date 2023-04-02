@@ -1,5 +1,5 @@
 # ML-Algorithm
-First Question:
+First:
 
 1.Implemented Naive Bayes Classifier Algorithm and visualized it.
 2.Calculated the accuracy and ROC of the Naive Bayes model.
@@ -9,7 +9,7 @@ First Question:
 6.Calculated F1 score, precision, and recall for both models and compared their performance.
 7.Interpreted the results between both the models and drew conclusions.
 
-Second Question:
+Second:
 
 1.Explained the steps involved in building a classification model for a specific problem.
 2.Explained the different evaluation metrics used to measure the model's performance.
